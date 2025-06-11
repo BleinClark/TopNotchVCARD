@@ -1,9 +1,0 @@
-BEGIN:VCARD
-VERSION:3.0
-FN:Top Notch Paint and Body
-ORG:Top Notch Paint and Body;
-TEL;TYPE=WORK,VOICE:(123) 456-7890
-EMAIL:info@topnotchpaintbody.com
-ADR;TYPE=WORK:;;123 Main St;YourCity;ST;12345;USA
-URL:http://www.topnotchpaintbody.com
-END:VCARD
