@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Clark;Blein;;;
+FN:Blein Clark
+ORG:Top Notch Paint & Auto Body
+TITLE:Estimator
+TEL;TYPE=WORK,VOICE:(270)846-3958
+TEL;TYPE=CELL,VOICE:(270)799-5322
+EMAIL:topnotchpaintandautobody72@gmail.com
+URL:https://www.topnotchpaintandauto.com
+ADR;TYPE=WORK:;;3006 Louisville Rd;Bowling Green;KY;42101;USA
+NOTE:Call, text, or email — we're happy to help!
+END:VCARD
